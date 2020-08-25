@@ -6,4 +6,4 @@
 
 
 [GitHub](https://github.com/ukiyowood/)
-[首页](/#)
+[知识库](/linux/)

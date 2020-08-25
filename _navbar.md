@@ -1,23 +1,23 @@
 * 运维
 
-  * linux(/linux/)
+  * [linux](/linux/)
   
-  * windows(/windows/)
+  * [windows](/windows/)
 
-  * K8S & docker(/k8s/)
+  * [K8S & docker](/k8s/)
 
 
 * 编程
-  * python(/python/)
+  * [python](/python/)
 
-  * golang(/golang/)
+  * [golang](/golang/)
 
-  * java(/java/)
+  * [java](/java/)
 
-  * react(/react/)
+  * [react](/react/)
 
-  * node(/node/)
+  * [node](/node/)
 
 
 * 工具
-  * vscode(/vscode/)
+  * [vscode](/vscode/)

@@ -2,7 +2,7 @@
 * [首页](/)
 
 * 运维
-  * [linuxx](/linuxx/)
+  * [linux](/linux/)
   * [windows](/windows/)
   * [K8S & docker](/k8s/)
 

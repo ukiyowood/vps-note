@@ -1,22 +1,23 @@
 * 运维
 
-  * linux
-    * [第一篇文章](first-article.md)
+  * linux(/linux/)
   
-  * windows
-    * [windows first]
+  * windows(/windows/)
+
+  * K8S & docker(/k8s/)
 
 
 * 编程
-  * python
+  * python(/python/)
 
-  * golang
+  * golang(/golang/)
 
-  * java
+  * java(/java/)
 
-  * react
+  * react(/react/)
 
-  * node
+  * node(/node/)
 
 
 * 工具
+  * vscode(/vscode/)

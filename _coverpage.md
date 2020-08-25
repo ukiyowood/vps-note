@@ -6,4 +6,4 @@
 
 
 [GitHub](https://github.com/ukiyowood/)
-<!-- [Get Started](#docsify) -->
+[首页](/#)

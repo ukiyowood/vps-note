@@ -22,6 +22,7 @@
 
   * [golang](/golang/)
     * [golang环境配置](/golang/config-golang-envs.md)
+    * [Golang第三方库收集](/golang/Golang第三方库收集.md)
 
   * [java](/java/)
     * [Java项目组织结构](/java/java-project-struct.md)
@@ -33,7 +34,3 @@
 * 工具
 
   * [vscode](/vscode/)
-
-  * [node](/node/)
-
-  * [node](/node/)

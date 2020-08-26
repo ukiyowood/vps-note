@@ -12,6 +12,7 @@
     * [Linux常用命令](linux/linux-cmd.md)
   * [K8S & docker](/k8s/)
     * [Linux常用命令](linux/linux-cmd.md)
+    * [Linux常用命令](linux/linux-cmd.md)
 
 * [编程](/load/)
   * [python](/python/)

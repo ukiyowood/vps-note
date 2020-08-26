@@ -26,9 +26,9 @@
   * [java](/java/)
     * [Java项目组织结构](/java/java-project-struct.md)
 
-  * [react](/react/)
-
-  * [node](/node/)
+  * [js](/js/)
+    * [react](/js/react/)
+    * [node](/js/node/)
 
 * 工具
 

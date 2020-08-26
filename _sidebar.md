@@ -9,12 +9,10 @@
     * [Centos搭建ftp](linux/centos-install-vsftpd.md)
 
   * [windows](/windows/)
-    * [Centos配置本地yum源](/linux/centos-config-local-yum-repo.md)
-    * [Linux常用命令](linux/linux-cmd.md)
+    
 
   * [K8S & docker](/k8s/)
-    * [Linux常用命令](linux/linux-cmd.md)
-    * [Linux常用命令](linux/linux-cmd.md)
+    
 
 * 编程
 

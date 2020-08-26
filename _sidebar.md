@@ -6,6 +6,7 @@
   * [linux](/linux/)
     * [Centos配置本地yum源](/linux/centos-config-local-yum-repo.md)
     * [Linux常用命令](linux/linux-cmd.md)
+    * [Centos搭建ftp](linux/centos-install-vsftpd.md)
   * [windows](/windows/)
     * [Centos配置本地yum源](/linux/centos-config-local-yum-repo.md)
     * [Linux常用命令](linux/linux-cmd.md)

@@ -26,7 +26,7 @@
   * [java](/java/)
     * [Java项目组织结构](/java/java-project-struct.md)
 
-  * [js](/js/)
+  * js
     * [react](/js/react/)
     * [vue](/js/vue/)
     * [node](/js/node/)

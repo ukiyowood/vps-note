@@ -28,6 +28,7 @@
 
   * [js](/js/)
     * [react](/js/react/)
+    * [vue](/js/vue/)
     * [node](/js/node/)
 
 * 工具

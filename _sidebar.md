@@ -19,7 +19,7 @@
   * [golang](/golang/)
     * [golang环境配置](/golang/config-golang-envs.md/)
   * [java](/java/)
-    - [Java项目组织结构](/java/java-project-struct.md/)
+    * [Java项目组织结构](/java/java-project-struct.md/)
   * [react](/react/)
   * [node](/node/)
 

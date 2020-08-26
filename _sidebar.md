@@ -13,6 +13,7 @@
 
   * [python](/python/)
   * [golang](/golang/)
+    * [golang环境配置](/golang/config-golang-envs/)
   * [java](/java/)
   * [react](/react/)
   * [node](/node/)
@@ -20,5 +21,3 @@
 * 工具
 
   * [vscode](/vscode/)
-
-<!-- * [golang](/golang/) -->

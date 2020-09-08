@@ -31,6 +31,8 @@
     * [vue](/js/vue/)
     * [node](/js/node/)
 
+  * [C](/c/c-note.md)
+
 * 工具
 
   * [vscode](/vscode/)

@@ -31,7 +31,7 @@
     * [vue](/js/vue/)
     * [node](/js/node/)
 
-  * [C](/c/c-note.md)
+  * [C语言](/c/c-note.md)
 
 * 工具
 
